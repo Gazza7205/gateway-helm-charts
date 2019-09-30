@@ -16,4 +16,14 @@ of the MIT license. See the [LICENSE][license-link] file for details.
 
  [license-link]: /LICENSE
  [contributing]: /CONTRIBUTING.md
+ 
+ 
+ Cert-manager needs better customresourcedefinitions control -
+ 
+ 1. install cert-manager - success
+ 2. delete/purge cert-manager - success
+ 3. install cert-manager - failure
+ 
+ Error: customresourcedefinitions.apiextensions.k8s.io "clusterissuers.certmanager.k8s.io" already exists
+ Error: customresourcedefinitions.apiextensions.k8s.io "certificates.certmanager.k8s.io" already exists
 
