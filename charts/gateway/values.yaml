@@ -41,7 +41,7 @@ service:
 
 livenessProbe:
   enabled: true
-  initialDelaySeconds: 120
+  initialDelaySeconds: 160
   timeoutSeconds: 5
   periodSeconds: 5
   successThreshold: 1
