@@ -1,5 +1,5 @@
 dependencies:
 - name: hazelcast
   version: ^2.2.0
-  repository: "https://chartmuseum.sutraone.com"
+  repository: "@chartmuseum"
   condition: hazelcast.enabled

@@ -2,5 +2,5 @@ dependencies:
 - name: hazelcast
   repository: https://chartmuseum.sutraone.com
   version: 2.2.0
-digest: sha256:cc66dfe38664e4e71654d1504d619018b92115f392c14f706ae6fc15d3a78b8d
-generated: "2019-10-11T19:39:52.531707+01:00"
+digest: sha256:230fc9b172746ec9aedc281c7d7368506569b0fee4de10c271912f9ffbfc6427
+generated: "2019-10-11T20:24:53.166231+01:00"
