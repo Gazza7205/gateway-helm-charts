@@ -1,5 +1,5 @@
 dependencies:
 - name: hazelcast
   version: ^2.2.0
-  repository: "http://chartmuseum-chartmuseum.chartmuseum.34.102.128.61.xip.io"
+  repository: http://35.246.69.78
   condition: hazelcast.enabled
