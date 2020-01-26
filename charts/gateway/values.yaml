@@ -20,9 +20,6 @@ container:
 
 imageCredentials:
     name: docker.k8s.apimsvc.ca.com
-    registry: docker.k8s.apimsvc.ca.com
-    username: admin
-    password:
 
 service:
   type: LoadBalancer
